@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "169502931962",
+    "project_id": "bookingservice-703af",
+    "storage_bucket": "bookingservice-703af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169502931962:android:3e0d338ec9458744bb8243",
+        "android_client_info": {
+          "package_name": "com.example.bookingservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169502931962-qfmflt7q8a7fpn83f5r4usghekmahaks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5VSVp9PSa7nkgU5HeSyjVKzH0vhMUA9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169502931962-qfmflt7q8a7fpn83f5r4usghekmahaks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169502931962:android:5132865f2ca2d03ebb8243",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169502931962-qfmflt7q8a7fpn83f5r4usghekmahaks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5VSVp9PSa7nkgU5HeSyjVKzH0vhMUA9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169502931962-qfmflt7q8a7fpn83f5r4usghekmahaks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
