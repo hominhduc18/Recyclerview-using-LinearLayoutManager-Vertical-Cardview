@@ -1,5 +1,5 @@
 # Recyclerview-using-LinearLayoutManager-Vertical-Cardview
-get acquainted
+get acquainted(Hiển thịc dọc)
 
 
 
